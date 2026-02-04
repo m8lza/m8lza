@@ -14,26 +14,33 @@
 
 ---
 
-### 🛠 Languages and Tools:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies (البديل للأفعى)
+### 🛠️ Inventory & Skills (Pixel Style):
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m8lza&theme=tokyonight&no-bg=true&margin-w=4" alt="m8lza trophies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,ps,py,cs&theme=dark" />
+  </a>
 </p>
 
 ---
 
-### 📊 Stats:
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=m8lza&theme=retro&no-bg=true" alt="m8lza trophies" />
+</p>
+
+---
+
+### 📊 System Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m8lza&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m8lza&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m8lza&show_icons=true&theme=retro" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m8lza&layout=compact&theme=retro" height="150" />
 </div>
+
+---
+
+### 🕹️ Terminal Logs:
+```text
+> Initializing M8LZA.sys... [OK]
+> Loading Roblox Studio modules... [OK]
+> Connection: Secure
+> Status: Ready to build amazing things.
