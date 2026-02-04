@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Inventory & Skills (Pixel Style):
+### 🛠️ Inventory & Skills :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,nodejs,ps,py,cs&theme=dark" />
