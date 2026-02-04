@@ -24,10 +24,3 @@
 ---
 
 
-### 📊 System Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m8lza&show_icons=true&theme=retro" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m8lza&layout=compact&theme=retro" height="150" />
-</div>
-
----
