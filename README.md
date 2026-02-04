@@ -17,7 +17,7 @@
 ### 🛠️ Inventory & Skills :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,ps,py,cs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=lua,js,nodejs,ps,py&theme=dark" />
   </a>
 </p>
 
